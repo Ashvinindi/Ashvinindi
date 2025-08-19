@@ -1,16 +1,23 @@
-## Hi there 👋
+###  About Me
+- 🔭 I’m currently working on **[Project Name]** — a brief one-liner description that captures what it does.
+- 🌱 I’m learning **React.js**, **Node.js**, **TypeScript**, and **GraphQL**.
+- 💼 I'm passionate about building **full-stack web applications**, **clean UI/UX**, and making data-driven solutions.
+- 🤝 I'm open to collaborative projects, mentoring, and exploring new ideas.
+- 📫 Reach me at: **your-email@example.com** (or link to your LinkedIn / personal portfolio).
 
-<!--
-**Ashvinindi/Ashvinindi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  My Skills
+| Frontend         | Backend           | Tools & Platforms         |
+|------------------|------------------|---------------------------|
+| React, HTML, CSS | Node.js, Express | Git, GitHub, REST APIs    |
+| Next.js          | MongoDB, PostgreSQL | Docker, Jest, CI/CD      |
 
-Here are some ideas to get you started:
+###  GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashvinindi&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Languages & Contributions
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashvinindi&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
