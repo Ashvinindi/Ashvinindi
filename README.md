@@ -1,15 +1,15 @@
 ###  About Me
-- 🔭 I’m currently working on **[Project Name]** — a brief one-liner description that captures what it does.
-- 🌱 I’m learning **React.js**, **Node.js**, **TypeScript**, and **GraphQL**.
-- 💼 I'm passionate about building **full-stack web applications**, **clean UI/UX**, and making data-driven solutions.
-- 🤝 I'm open to collaborative projects, mentoring, and exploring new ideas.
-- 📫 Reach me at: **your-email@example.com** (or link to your LinkedIn / personal portfolio).
+- 🔭 I’m currently working on **[Smart-tourism-App]** 
+- 🌱 I’m learning **React.js**, **Node.js**, **TypeScript**, and **MySQL**.
+- 💼 I'm passionate about building **full-stack web applications**, ** UI/UX**, and making data-driven solutions.
+- 🤝 I'm open to collaborative projects, problem solving, and exploring new ideas.
+- 📫 Reach me at: **Ashvinindiu@gmail.com** 
 
 ###  My Skills
 | Frontend         | Backend           | Tools & Platforms         |
 |------------------|------------------|---------------------------|
-| React, HTML, CSS | Node.js, Express | Git, GitHub, REST APIs    |
-| Next.js          | MongoDB, PostgreSQL | Docker, Jest, CI/CD      |
+| React, HTML, CSS | Node.js, Express | Git, GitHub               |
+| Next.js          | MongoDB          | Docker,   CI/CD          |
 
 ###  GitHub Stats
 <p align="center">
