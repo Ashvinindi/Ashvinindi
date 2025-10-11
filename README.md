@@ -9,7 +9,7 @@
 | Frontend         | Backend           | Tools & Platforms         |
 |------------------|------------------|---------------------------|
 | React, HTML, CSS | Node.js, Express | Git, GitHub               |
-| Next.js          | MongoDB          | Docker,   CI/CD          |
+| Next.js          | MongoDB          | Docker                    |
 
 ###  GitHub Stats
 <p align="center">
