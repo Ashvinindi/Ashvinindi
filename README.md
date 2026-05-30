@@ -1,14 +1,15 @@
 ###  About Me
-- 🔭 I’m currently working on **[Smart-tourism-App]** 
-- 🌱 I’m learning **React.js**, **Node.js**, **TypeScript**, and **MySQL**.
-- 💼 I'm passionate about building **full-stack web applications**, ** UI/UX**, and making data-driven solutions.
+- 🔭 I’m currently working on **[Faculty-LectureHall_management-System]** 
+- 🌱 I’m learning **React.js**, **Node.js**, **Python**, and **PostgreSQL**.
+- 💼 I'm passionate about building **full-stack web applications**, and making data-driven solutions.
 - 🤝 I'm open to collaborative projects, problem solving, and exploring new ideas.
 - 📫 Reach me at: **Ashvinindiu@gmail.com** 
 
 ###  My Skills
-| Frontend         | Backend           | Tools & Platforms         |
+| Frontend         | Backend          | Tools & Platforms         |
 |------------------|------------------|---------------------------|
-| React, HTML, CSS | Node.js, Express | Git, GitHub               |
+| React, HTML, CSS,| Node.js, Express | Git, GitHub               |
+|                  | FastAPI          |                           |
 | Next.js          | MongoDB          | Docker                    |
 
 ###  GitHub Stats
