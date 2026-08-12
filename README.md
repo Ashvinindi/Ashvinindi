@@ -10,7 +10,7 @@
 |------------------|------------------|---------------------------|
 | React, HTML, CSS,| Node.js, Express | Git, GitHub               |
 |                  | FastAPI          |                           |
-| Next.js          | MongoDB          | Docker                    |
+| Next.js          | MongoDB          | Postman                   |
 
 ###  GitHub Stats
 <p align="center">
