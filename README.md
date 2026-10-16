@@ -1,24 +1,25 @@
-###  About Me
-- 🔭 I’m currently working on **[Faculty-LectureHall_management-System]** 
-- 🌱 I’m learning **React.js**, **Node.js**, **Python**, and **PostgreSQL**.
-- 💼 I'm passionate about building **full-stack web applications**, and making data-driven solutions.
-- 🤝 I'm open to collaborative projects, problem solving, and exploring new ideas.
-- 📫 Reach me at: **Ashvinindiu@gmail.com** 
-
-###  My Skills
-| Frontend         | Backend          | Tools & Platforms         |
-|------------------|------------------|---------------------------|
-| React, HTML, CSS,| Node.js, Express | Git, GitHub               |
-|                  | FastAPI          |                           |
-| Next.js          | MongoDB          | Postman                   |
-
-###  GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashvinindi&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-###  Languages & Contributions
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashvinindi&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=009688&height=200&section=header&text=Ashvinindi%20Uthkarsha&fontSize=50&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header Banner" />
+
+  <h3>🎓 B.Sc. (Hons) Computing & Information Systems Undergraduate</h3>
+  <p><b>Full-Stack Developer | Devops Engineering | Aspiring Business Analyst</b></p>
+
+  <p>
+    <a href="https://linkedin.com/in/Ashvinindi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:Ashvinindiu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://github.com/Ashvinindi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  </p>
+
+  🎯 <b>Actively seeking Software Engineering, Devops  & Business Analysis Internship Opportunities (Starting Jan 2027)</b>
+
 </div>
 
+---
+
+### 👨‍💻 About Me
+
+```text
+ 🎓 Education       ──► B.Sc. (Hons) Computing & Information Systems @ Sabaragamuwa University (GPA: 3.39/4.00)
+ 💻 Core Stack      ──► Python (FastAPI), Java, JavaScript (React), Flutter, Docker & Multi-Database Systems
+ 🏆 Leadership      ──► University Chess Team Captain | Active Rotaract & Leo Club Volunteer
+ 🎯 Specializations ──► RESTful Microservices, Data Validation (Pydantic), Agile/Scrum & Process Modeling (BPMN)
