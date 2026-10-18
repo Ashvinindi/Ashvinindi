@@ -19,7 +19,7 @@
 ### 👨‍💻 About Me
 
 ```text
- 🎓 Education       ──► B.Sc. (Hons) Computing & Information Systems @ Sabaragamuwa University (GPA: 3.39/4.00)
+ 🎓 Education       ──► B.Sc. (Hons) Computing & Information Systems @ Sabaragamuwa University
  💻 Core Stack      ──► Python (FastAPI), Java, JavaScript (React), Flutter, Docker & Multi-Database Systems
  🏆 Leadership      ──► University Chess Team Captain | Active Rotaract & Leo Club Volunteer
  🎯 Specializations ──► RESTful Microservices, Data Validation (Pydantic), Agile/Scrum & Process Modeling (BPMN)
